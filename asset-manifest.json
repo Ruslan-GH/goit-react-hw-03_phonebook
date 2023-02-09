@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03_phonebooknpm%20install%20--save%20gh-pages/static/css/main.81bc3a6d.css",
+    "main.js": "/goit-react-hw-03_phonebooknpm%20install%20--save%20gh-pages/static/js/main.07abcdd5.js",
+    "index.html": "/goit-react-hw-03_phonebooknpm%20install%20--save%20gh-pages/index.html",
+    "main.81bc3a6d.css.map": "/goit-react-hw-03_phonebooknpm%20install%20--save%20gh-pages/static/css/main.81bc3a6d.css.map",
+    "main.07abcdd5.js.map": "/goit-react-hw-03_phonebooknpm%20install%20--save%20gh-pages/static/js/main.07abcdd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81bc3a6d.css",
+    "static/js/main.07abcdd5.js"
+  ]
+}
